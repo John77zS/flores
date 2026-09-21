@@ -120,12 +120,13 @@ button { font: inherit; }
   color: rgba(255,255,255,.82);
 }
 
+
 .bouquet-wrap {
   position: absolute;
   left: 50%;
   bottom: -5px;
   transform: translateX(-50%);
-  width: min(100%, 430px);
+  width: min(78%, 350px);
   z-index: 10;
 }
 
